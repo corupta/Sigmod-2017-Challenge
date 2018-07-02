@@ -11,7 +11,14 @@ An N-gram of words is a contiguous sequence of N words (https://en.wikipedia.org
 For more details check out [ACM Sigmod 2017 Programming Contest](http://sigmod17contest.athenarc.gr/task.shtml)
 
 ## Test Dataset
-You can download this dataset to test my project. [Test Dataset](http://sigmod17contest.athenarc.gr/test-dataset.tar.bz2)
+Designed to be used on Linux.
+
+Run "./compile.sh" to get binary.
+copy it to test folder
+Run "make" to get test harness binary
+Run "./harness" to get instructions on how to make tests.
+Test folder includes the small test dataset.
+You can download this big dataset to further test my project. [Test Dataset](http://sigmod17contest.athenarc.gr/test-dataset.tar.bz2)
 
 ## Solution
 
