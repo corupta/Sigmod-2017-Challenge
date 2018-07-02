@@ -1,4 +1,4 @@
-# Sigmod - 2017 Challange
+# Sigmod - 2017 Challenge
 ### Made for ACM SIGMOD 2017 Programming Contest
 
 I've created this solution for the ACM Sigmod 2017 Programming Contest on Mar 22th, 2017.
